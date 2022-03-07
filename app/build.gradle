@@ -11,7 +11,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.example.rainny"
+        applicationId "com.islamxpro.rainny"
         minSdk 21
         targetSdk 32
         versionCode 1
@@ -47,5 +47,5 @@ dependencies {
     //noinspection GradleDependency
     implementation 'de.hdodenhof:circleimageview:3.0.0'
     // Lottie dependency
-    implementation "com.airbnb.android:lottie:3.7.0"
+    implementation "com.airbnb.android:lottie:3.7.1"
 }

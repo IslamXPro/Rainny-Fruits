@@ -1,4 +1,4 @@
-package com.example.rainny
+package com.islamxpro.rainny
 
 import org.junit.Test
 

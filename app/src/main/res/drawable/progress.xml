@@ -3,14 +3,14 @@
     <item android:id="@+id/back">
         <shape android:shape="rectangle">
             <corners android:radius="6dp"/>
-            <solid android:color="@color/purple_700"/>
+            <solid android:color="#F8C1C1"/>
         </shape>
     </item>
     <item android:id="@+id/prog">
         <scale android:scaleWidth="100%">
             <shape android:shape="rectangle">
                 <corners android:radius="6dp"/>
-                <solid android:color="#797383"/>
+                <solid android:color="#00AF16"/>
             </shape>
         </scale>
     </item>
